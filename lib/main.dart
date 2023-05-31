@@ -13,6 +13,7 @@ void main() {
           iconTheme: const IconThemeData(color: Colors.black),
         ),
         debugShowCheckedModeBanner: false,
-        home: const SplashScreen()),
+        home: const SplashScreen()
+        ),
   );
 }
